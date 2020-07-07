@@ -11,9 +11,13 @@ Instructions to Run the Project
 			iv)numpy
 			v) pillow
   
-2)Run new_database.py to initalize the database
-3)Check if DataBase.db is created
-4)Next run face_rec.py and enter the name of the face you want to be recognized next show the face to the camera wait for the app to scan it once its done, it will auto-close
-5)Now execute trainer.py and show the face to camera once again
+2)Run new_database.py to initalize the database		
+
+3)Check if DataBase.db is created		
+
+4)Next run face_rec.py and enter the name of the face you want to be recognized next show the face to the camera wait for the app to scan it once its done, it will auto-close		
+
+5)Now execute trainer.py and show the face to camera once again		
+
 6)Finally run detection_fin.py and it opens a "face-recognizer"  Make sure the face is in the same position when it was recorded first, if everything went well your face
 will be detected and the name will show up.
